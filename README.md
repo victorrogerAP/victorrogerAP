@@ -1,4 +1,5 @@
-## Oiii eu sou o Victor!
+## Oiii eu sou o Victor! 
+tenho 24 e estudo programçao 
 <div align="center">
   <a href="https://github.com/victorrogerAP">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorrogerAP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
