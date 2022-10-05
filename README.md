@@ -1,5 +1,5 @@
 ## Oiii eu sou o Victor! 
-tenho 24 e estudo programçao 
+tenho 24 anos e estudo programçao, atualmente estou estudando font-end, gosto muito de criar e inovar, sou curioso e dedicado.
 <div align="center">
   <a href="https://github.com/victorrogerAP">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorrogerAP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
